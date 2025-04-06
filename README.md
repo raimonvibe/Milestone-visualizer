@@ -7,8 +7,8 @@ Built with love by [@raimonvibe](https://github.com/raimonvibe) 💜
 
 ## 🖼️ Screenshot Preview
 
-|--------------|-------------|
-| ![dark](screenshots/dark.png) |
+
+ ![dark](screenshots/dark.png) 
 
 *(Make sure to upload these images to a `screenshots/` folder in your repo)*
 
