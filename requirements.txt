@@ -1,0 +1,30 @@
+# This file is for reference only. In a Next.js project, dependencies are managed through package.json
+# The following npm packages would be needed for this project:
+
+# Core dependencies
+next@14.0.0
+react@18.2.0
+react-dom@18.2.0
+
+# Authentication
+next-auth@4.24.5
+
+# UI and styling
+tailwindcss@3.3.0
+@tailwindcss/forms@0.5.7
+html2canvas@1.4.1
+lucide-react@0.294.0
+
+# Payment processing
+stripe@14.5.0
+
+# TypeScript
+typescript@5.0.4
+@types/node@20.5.7
+@types/react@18.2.21
+@types/react-dom@18.2.7
+
+# Development tools
+eslint@8.47.0
+eslint-config-next@14.0.0
+
